@@ -1,0 +1,10 @@
+# .gitignore
+
+# not commit node_modules
+node_modules
+
+# not commit .env
+.env
+
+# under devlopment
+/passport
